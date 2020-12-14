@@ -5,6 +5,8 @@
 
 Style css for forms, with validation styles ans accessibility
 
+## Layout
+
 ```html
 <form action="" novalidate="novalidate" role="form" aria-label="Contact information" data-mandatory="Mandatory field">
 	<fieldset>
