@@ -10,16 +10,16 @@ See [formValidate](https://github.com/Natjo/formValidate) to add native validati
 
 ```html
 <form action="myAction" data-nonce="myNonce" novalidate="novalidate" role="form" aria-label="Contact information" data-mandatory="Mandatory field">
-	<fieldset>
-		<legend>Personal information</legend>
-		<div class="field">
-		</div>
-		...
-		<div class="action">
-			<input type="submit">
-			<button type="reset">Reset</button>
-		</div>
-	</fieldset>	
+    <fieldset>
+        <legend>Personal information</legend>
+        <div class="field">
+        </div>
+        ...
+        <div class="action">
+            <input type="submit">
+            <button type="reset">Reset</button>
+        </div>
+    </fieldset>	
 </form>
 ```
 ## Text
